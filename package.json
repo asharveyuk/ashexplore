@@ -1,0 +1,25 @@
+{
+  "name": "ashexplore",
+  "version": "0.0.1",
+  "description": "ASH Explore Project.",
+  "license": "MIT",
+  "homepage": "https://github.com/ashexplore",
+  "repository": "ashexplore",
+  "contributors": [
+    "ASH"
+  ],
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "main": "app.js",
+  "files": [
+    "app.js",
+    "index.js"
+  ],
+  "keywords": [
+    "ash"
+  ],
+  "dependencies": {
+    "mfcc": "0.0.3"
+  }
+}
